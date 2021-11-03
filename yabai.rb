@@ -1,7 +1,7 @@
 class Yabai < Formula
   desc "A tiling window manager for macOS based on binary space partitioning."
   homepage "https://github.com/koekeishiya/yabai"
-  head "https://github.com/donaldguy/yabai.git", :branch => "canon"
+  head "https://github.com/koekeishiya/yabai.git"
   version "git"
 
   env :std
